@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalAccessbility
+
+  Created by 박도원 on 2022/11/11.
+  
+*/
+
+"Welcome to yagom-academy!" = "야곰 아카데미에 오신 것을 환영합니다!";
+"Touch the button below!" = "버튼 누름";
+"Touch Me!" = "절 눌러주세요!";
